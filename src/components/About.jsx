@@ -4,8 +4,8 @@ function About() {
       <div className="about-container">
         <h2>About StudentApp</h2>
         <p>
-          StudentApp is a modern Student Management System built using React.
-          It allows dynamic student addition, clean UI rendering and interactive components.
+          StudentApp is a modern Student Management System  using React.
+          It allows dynamic student addition , clean UI rendering and interactive components.
         </p>
 
         <div className="about-cards">
